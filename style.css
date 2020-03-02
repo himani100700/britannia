@@ -1,0 +1,77 @@
+.fixed {
+  position: fixed;
+  width: 100%;
+  z-index: 100; 
+ 
+}
+.bg1{
+    background-image: url(https://lh3.googleusercontent.com/proxy/SvpoyOIAF6iBQf6aoWmbDl0iFauIEsOHS52OnozfUMTgNBbL6grGtdLi_B0-i4gsga4oZhOhJ05LxnW0S3n7aGW91XrLqhDIYx_JlnI);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg2{
+    background-image: url(https://hdwallsource.com/img/2014/1/lovely-bread-background-37342-38201-hd-wallpapers.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg3{
+    background-image: url(https://www.dialdoha.com/assets/images/Dairy_8524.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg4{
+    background-image: url(https://ak8.picdn.net/shutterstock/videos/4110448/thumb/1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg5{
+    background-image: url(https://previews.123rf.com/images/trezvuy/trezvuy1807/trezvuy180700335/106785490-crispy-rusk-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg6{
+    background-image: url(https://www.pepper.ph/wp-content/uploads/2018/08/ChocolateWafer_FI.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg7{
+    background-image: url(https://www.bakersmaison.com.au/images/the-history-of-the-croissant.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.greybg{
+    background-color: rgb(0,0,0,0.4);
+    color: white;
+    
+}
+.card{
+    background-color: rgb(0,0,0,0.4);
+}
+.biscuit{
+    padding-top: 150px;
+    
+}
+.bread{
+    padding-top: 10%;
+    
+}
+.dairy{
+    padding-top: 10%;
+    
+}
+.cakes{
+    padding-top: 10%;
+    
+}
+.rusks{
+    padding-top: 10%;
+    
+}
+.creme{
+    padding-top: 10%;
+    
+}
+.croissant{
+    padding-top: 10%;
+    
+}
