@@ -5,9 +5,10 @@
  
 }
 .bg1{
-    background-image: url(https://images.pexels.com/photos/1009841/pexels-photo-1009841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-image: url("https://images.pexels.com/photos/1009841/pexels-photo-1009841.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
     background-repeat: no-repeat;
     background-size: cover;
+    background-color: #701d1d;
 }
 .bg2{
     background-image: url(https://hdwallsource.com/img/2014/1/lovely-bread-background-37342-38201-hd-wallpapers.jpg);
